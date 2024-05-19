@@ -1,0 +1,13 @@
+gensim
+jsonlines
+keras
+Keras_Preprocessing
+matplotlib
+nltk
+numpy
+pandas
+scikit_learn==1.2.2
+seaborn
+spacy
+sumy
+pipreqs
